@@ -1,2 +1,0 @@
-# Piiken
-Pii Design System
